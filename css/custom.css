@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poiret+One&display=swap');
+.logo {
+  font-family: 'Pacifico', cursive;
+}
+.logo h1{
+  font-size: 2rem !important;
+}
+.our-placeholder-block {
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.65rem;
+    font-weight: bold;
+    color: #333;
+    background: radial-gradient(circle, rgba(244,244,244,1) 0%, rgba(0,117,255,1) 100%);
+  }
+  .st0{display:none;}
+  .st1{font-family:'Broadway';}
+  .st2{font-size:180.48px;}

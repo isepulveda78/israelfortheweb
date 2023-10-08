@@ -1,0 +1,19 @@
+{
+    "version": 1,
+    "settings": {
+      "color": {
+      "background": true,
+      "text": false,
+      "link": false,
+      "custom": false,
+      "defaultPalette": false,
+      "duotone": [],
+      "customDuotone": false,
+      "gradients": [],
+      "customGradient": false
+    },
+        "layout": {
+            "contentSize": "840px"
+        }
+    }
+}
